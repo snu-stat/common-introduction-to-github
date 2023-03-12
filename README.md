@@ -217,6 +217,27 @@ As noted in the previous step, you may have seen evidence of GitHub Actions runn
 
 </details>
 
+<details id=5 open>
+<summary><h2>Step 5: Submit your homework</h2></summary>
+
+Github classroom으로 생성된 본인의 저장소(지금 보고 있는 `README.md`가 들어 있음)에 다음 작업을 해주세요.
+
+1. `student.yml` 파일에 본인애 대한 정보를 채워넣기.
+  - 이름
+  - 학번
+  - 소속학과
+  - Github ID
+  - Step 1--4까지를 따라해서 만든 본인의 Github ID하의 저장소 주소
+
+
+숙제 0의 목적은 다음과 같습니다.
+
+* 숙제 제출 연습
+* 숙제 관리 코드 테스트
+* github id와 학번 정보 매칭
+
+</details>
+
 <!-- 
   <<< Author notes: Finish >>> 
   Review what we learned, ask for feedback, provide next steps.
