@@ -222,7 +222,7 @@ As noted in the previous step, you may have seen evidence of GitHub Actions runn
 
 Github classroom으로 생성된 본인의 저장소(지금 보고 있는 `README.md`가 들어 있음)에 다음 작업을 해주세요.
 
-1. `student.yml` 파일에 본인애 대한 정보를 채워넣기.
+1. `student.yml` 파일에 본인의 정보를 채워넣기.
   - 이름
   - 학번
   - 소속학과
